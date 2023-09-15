@@ -1,1 +1,5 @@
-# base_infra
+# Base Infrastructure
+
+## Diagram
+
+![image](./images/base.jpg)
